@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCF_TEST_API", "MFC_TEST_API\MCF_TEST_API.csproj", "{4BE01A2C-80EF-4B41-AF86-04E1253D3346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE01A2C-80EF-4B41-AF86-04E1253D3346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE01A2C-80EF-4B41-AF86-04E1253D3346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE01A2C-80EF-4B41-AF86-04E1253D3346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE01A2C-80EF-4B41-AF86-04E1253D3346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E7813E9-0D14-484E-BD77-CBC4E5314958}
+	EndGlobalSection
+EndGlobal
